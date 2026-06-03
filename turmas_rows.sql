@@ -1,0 +1,1 @@
+INSERT INTO "public"."turmas" ("id", "nome") VALUES (1, 'DS1'), (2, 'DS2');

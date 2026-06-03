@@ -1,0 +1,1 @@
+INSERT INTO "public"."disciplinaDalunos" ("aluno_id", "disciplina_id") VALUES (1, 1), (1, 2), (2, 1), (3, 2);

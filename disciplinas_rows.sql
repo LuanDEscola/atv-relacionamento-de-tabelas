@@ -1,0 +1,1 @@
+INSERT INTO "public"."disciplinas" ("id", "nome") VALUES (1, 'Back-End'), (2, 'Front-End');

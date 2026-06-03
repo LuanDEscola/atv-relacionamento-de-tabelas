@@ -1,0 +1,1 @@
+INSERT INTO "public"."usuarios" ("id", "nome") VALUES (1, 'João'), (2, 'Pedro');

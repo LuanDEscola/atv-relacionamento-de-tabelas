@@ -1,0 +1,1 @@
+INSERT INTO "public"."alunos" ("id", "nome", "turma_id") VALUES (1, 'João', 1), (2, 'Pedro', 1), (3, 'Maria', 2);

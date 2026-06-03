@@ -1,0 +1,1 @@
+INSERT INTO "public"."perfis" ("id", "usuario_id", "bio") VALUES (1, 1, 'Olá, meu nome é João.'), (2, 2, 'Opa, meu nome é Pedro e gosto de futebol.');
